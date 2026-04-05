@@ -1,0 +1,7 @@
+streamlit==1.32.0
+requests
+folium
+streamlit-folium
+pandas
+numpy
+plotly
