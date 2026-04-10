@@ -1,7 +1,14 @@
 streamlit
-requests
-folium
 streamlit-folium
+folium
+pydeck
+plotly
 pandas
 numpy
-plotly
+scipy
+matplotlib
+rasterio
+requests
+python-dotenv
+cdsapi
+netCDF4
